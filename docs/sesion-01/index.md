@@ -1,5 +1,5 @@
 ---
-title: Componentes
+title: Sesión 01
 layout: default
 nav_order: 4
 has_children: true

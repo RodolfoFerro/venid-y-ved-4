@@ -1,7 +1,7 @@
 ---
 title: Botones y llamadas
 layout: default
-parent: Componentes
+parent: Sesión 01
 nav_order: 1
 description: "Muestra de botones, etiquetas y callouts."
 ---

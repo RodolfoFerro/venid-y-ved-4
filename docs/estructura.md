@@ -1,11 +1,11 @@
 ---
-title: Estructura del sitio
+title: Estructura del curso
 layout: default
-nav_order: 3
-description: "Cómo se organizan los archivos y cómo agregar páginas nuevas."
+nav_order: 2
+description: "Estructura y evaluación del curso."
 ---
 
-# Estructura del sitio
+# Estructura del curso
 {: .no_toc }
 
 ## Contenido
@@ -16,70 +16,27 @@ description: "Cómo se organizan los archivos y cómo agregar páginas nuevas."
 
 ---
 
-## Árbol de archivos
+## Libro de estudio
 
-```text
-.
-├── _config.yml            # configuración de Jekyll y del tema
-├── Gemfile                # dependencias Ruby
-├── index.md               # portada (layout: home)
-├── docs/                  # páginas de documentación
-│   ├── inicio.md
-│   ├── estructura.md
-│   └── componentes/       # sección con subpáginas
-│       ├── index.md
-│       └── botones.md
-└── _sass/
-    ├── custom/
-    │   └── custom.scss    # reglas Sass propias (el tema lo importa solo)
-    └── color_schemes/
-        └── venid.scss     # esquema de color propio (opcional)
+- Ruby 3.x (probado con 3.4.1)
+- Bundler (`gem install bundler`)
+
+## Estructura y material del curso
+
+```bash
+bundle install
 ```
 
-El tema no está en el repo: se descarga en cada build vía `remote_theme` en
-`_config.yml`. El despliegue lo hace GitHub Pages compilando la rama `master`.
+## Criterios de evaluación
 
-## Agregar una página
-
-Crea un archivo `.md` con front matter:
-
-```yaml
----
-title: Mi página
-layout: default
-nav_order: 4
----
+```bash
+bundle exec jekyll serve
 ```
 
-## Crear una sección con subpáginas
+El sitio queda en <http://localhost:4000/venid-y-ved-4/>. Con `--livereload` se
+recarga el navegador al guardar cambios:
 
-1. Crea una carpeta, p. ej. `docs/api/`.
-2. Añade `docs/api/index.md` con `has_children: true`.
-3. En cada subpágina pon `parent: <title del index>`.
-
-```yaml
-# docs/api/index.md
----
-title: API
-layout: default
-nav_order: 5
-has_children: true
----
+```bash
+bundle exec jekyll serve --livereload
 ```
 
-```yaml
-# docs/api/autenticacion.md
----
-title: Autenticación
-layout: default
-parent: API
-nav_order: 1
----
-```
-
-## Personalizar estilos
-
-Reglas Sass adicionales van en `_sass/custom/custom.scss` (el tema lo importa
-automáticamente). Para cambiar colores del tema, edita el esquema
-`_sass/color_schemes/venid.scss` y actívalo con `color_scheme: venid` en
-`_config.yml`.
