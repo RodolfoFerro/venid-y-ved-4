@@ -62,4 +62,14 @@ Esta estructura en la que estaremos siguiendo nuestro estudio, ha sido tomada de
 
 ## Criterios de evaluación
 
-Para la aprobación del curso...
+Para la aprobación del curso será necesario cumplir con los siguientes requisitos:
+
+- **Asistencia mayor al 80% de las sesiones.** Esto significa que cada persona tendrá derecho a 3 faltas como máximo.
+    
+    {: .note }
+    Habrá casos especiales en los que si hay una falta, ésta puede ser justificada con reposición de tarea. Cada caso se tratará en lo particular con los hnos. facilitadores del curso.
+
+- **Entrega de tareas y participación.** El objetivo del módulo es desarrollar el habito de tener un devocional, por lo que la realización de tareas y la participación serán de suma importancia.
+
+{: .important }
+> La particpación y asistencia del grupo de alabanza será reportada cada 2 semana al hno. pastor.
