@@ -2,24 +2,19 @@
 title: Tarea
 layout: default
 parent: Sesión 02
-nav_order: 1
+nav_order: 2
 description: "Preguntas de la lectura."
 ---
 
 # Preguntas de la lectura
-{: .no_toc }
 
-## Contenido
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+Cuando cambiamos al Creador por sus criaturas 
+{: .fs-7 .fw-300 }
 
 ---
 
-## Preguntas
+## Tarea
 
-| Columna A | Columna B |
-|:----------|:----------|
-| valor 1   | valor 2   |
-| valor 3   | valor 4   |
+### Preguntas
+
+La tarea y preguntas se enviarán posterior a la sesión.

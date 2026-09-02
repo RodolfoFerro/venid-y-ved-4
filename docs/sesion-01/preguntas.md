@@ -2,22 +2,22 @@
 title: Tarea
 layout: default
 parent: Sesión 01
-nav_order: 1
+nav_order: 3
 description: "Preguntas de la lectura."
 ---
 
 # Preguntas de la lectura
-{: .no_toc }
 
-## Contenido
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+El evangelio de Dios: quiénes somos y para qué vivimos
+{: .fs-7 .fw-300 }
 
 ---
 
-## Preguntas
+## Tarea
+
+Para esta primera tarea, te pediremos que leas nuevamente **Romanos 1:1-17** y medites en el Señor, respondiendo las siguientes preguntas.
+
+### Preguntas
 
 | Columna A | Columna B |
 |:----------|:----------|

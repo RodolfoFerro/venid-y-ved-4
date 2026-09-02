@@ -13,8 +13,10 @@ Repositorio del módulo Venid y Ved 4. <br>
 Primera Iglesia Bautista de León.
 {: .fs-6 .fw-300 }
 
+
 {: .note }
 > _Le oyeron hablar los dos discípulos, y siguieron a Jesús. Y volvéndose Jesús, viendo que le seguían, les dijo: ¿Qué buscáis? Ellos dijeron: Rabí (que traducido es Maestro), ¿dónde moras? Les dijo: **venid y ved**. Fueron, y vieron donde moraba, y se quedaron con él aquel día; porque ya era como la hora décima._ **Juan 1:37-39**
+
 
 **Venid y Ved** es un **método de discipulado práctico y progresivo**, diseñado para acompañar al creyente en su crecimiento y formación como discípulo de Jesucristo. Su estructura es **modular**, avanzando desde las disciplinas y fundamentos de la vida cristiana hasta el conocimiento de Jesús, sus prioridades y la identidad y misión del discípulo.
 

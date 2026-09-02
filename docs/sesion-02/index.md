@@ -9,6 +9,6 @@ description: "Sesión 02 del módulo."
 # Sesión 02
 
 Cuando cambiamos al Creador por sus criaturas 
-{: .fs-6 .fw-300 }
+{: .fs-7 .fw-300 }
 
-TBA.
+En esta sección encontrarás los enlaces a cada uno de los elementos de esta sesión.
