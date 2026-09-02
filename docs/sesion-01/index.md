@@ -3,12 +3,12 @@ title: Sesión 01
 layout: default
 nav_order: 4
 has_children: true
-description: "Ejemplos de los componentes de UI que ofrece el tema."
+description: "Sesión 01 del módulo."
 ---
 
-# Componentes
+# Sesión 01
 
-Esta sección agrupa ejemplos de los elementos visuales del tema Just the Docs:
-botones, etiquetas, tablas, llamadas de atención y bloques de código.
+El evangelio de Dios: quiénes somos y para qué vivimos
+{: .fs-6 .fw-300 }
 
-Usa el menú lateral para navegar entre las subpáginas.
+TBA.
