@@ -78,6 +78,12 @@ Después de leer el pasaje, reflexiona y responde:
 
 Para esta entrega, será necesario traer las preguntas de los devocionales respondidas a la clase (puede ser en un cuaderno u hojas, sólo se revisa la tarea realizada y se devuelve).
 
-Para la siguiente clase, asignaremos a 3 personas para que nos expongan qué les habló Dios durante sus devocionales de esta semana. **(_Por definir._)**
+Para la siguiente clase, asignaremos a 3 personas para que nos expongan qué les habló Dios durante sus devocionales de esta semana:
+
+| Día | Pasaje          | Encargado(a)           |
+|:----|:----------------|:-----------------------|
+| 1   | Romanos 2:17–29 | Hno. Francisco Jiménez |
+| 2   | Romanos 3:1–8   | Hna. Alexa Amador      |
+| 3   | Romanos 3:9–20  | Hna. Jaisis Orea       |
 
 Como apoyo, puedes seguir las [Recomendaciones para realizar tu devocional](https://rodolfoferro.xyz/venid-y-ved-4/docs/sesion-01/adicional/#recomendaciones-para-realizar-tu-devocional) que te compartimos, para que puedas llevar de mejor manera la realización de tus tareas.
