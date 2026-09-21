@@ -56,7 +56,7 @@ Para esta segunda tarea, te pediremos que leas nuevamente **Romanos 1:18-32** y 
 
 ### Entregas
 
-Para esta entrega, será necesario trar las preguntas respondidas a la clase (puede ser en un cuaderno u hojas, sólo se revisa la tarea realizada y se devuelve).
+Para esta entrega, será necesario traer las preguntas respondidas a la clase (puede ser en un cuaderno u hojas, sólo se revisa la tarea realizada y se devuelve).
 
 Para la siguiente clase, no asignaremos a alguien en particular para compartirnos sus respuestas y meditaciones respuesta a las siguientes preguntas, pero se preguntará a alguien de manera aleatoria al inicio de la clase; por lo que será necesario que todo el grupo también responda y prepare las siguientes preguntas:
 
