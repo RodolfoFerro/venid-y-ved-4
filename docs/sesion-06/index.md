@@ -1,5 +1,5 @@
 ---
-title: Sesión 05
+title: Sesión 06
 layout: default
 nav_order: 8
 has_children: true
