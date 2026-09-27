@@ -28,7 +28,9 @@ Procura no limitarte únicamente a responder las preguntas. Lee cada pasaje con 
 
 ### Contexto e Introducción
 
-Este primer grupo de preguntas está diseñado para llevarte a examinar tu tendencia natural a buscar **aprobación, justificación o valor a través del esfuerzo propio y los méritos**. Inspiradas en el ejemplo de Abraham y el contraste con la ley o las obras, estas interrogantes te invitan a identificar dónde intentas "ganarte" las cosas por ti mismo, a soltar la necesidad de presumir tus logros, y a descansar en la bienaventuranza de recibir el perdón y la gracia inmerecida de Dios.
+Después de explicar que hemos sido **justificados por la fe y reconciliados con Dios** (5:1–11), Pablo amplía la perspectiva para explicar **cómo la obra de Cristo responde al problema universal del pecado**. Para ello, contrasta a Adán y Cristo: por medio de Adán entraron el pecado y la muerte en la humanidad; por medio de Cristo llegan la gracia, la justificación y la vida.
+
+El pasaje presenta así a **Cristo como cabeza de una nueva humanidad**, mostrando que la gracia de Dios no solo responde al pecado, sino que sobreabunda sobre sus consecuencias.
 
 Después de leer el pasaje, reflexiona y responde:
 
