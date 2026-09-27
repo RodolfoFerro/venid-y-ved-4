@@ -1,7 +1,7 @@
 ---
 title: Tarea
 layout: default
-parent: Sesión 04
+parent: Sesión 05
 nav_order: 3
 description: "Preguntas de la lectura."
 ---
