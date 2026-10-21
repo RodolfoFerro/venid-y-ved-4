@@ -37,42 +37,6 @@ En Romanos 8:9-17, Pablo presenta la presencia del Espíritu Santo como la marca
 * Pablo enseña que ser coherederos con Cristo implica estar dispuestos a sufrir con Él antes de ser glorificados con Él. Cuando enfrentas dificultades, presiones o rechazo por tu fe, ¿de qué manera recordar tu herencia futura te ayuda a mantenerte firme?
 
 
-### **Día 2:** Romanos 8:18-27 — El Espíritu de gloria y la intercesión en la debilidad
-
-{: .important }
-> **Lee Romanos 8:18-27.**
->
-> _Leer en <a href="https://www.biblegateway.com/passage/?search=Romanos%208:18-27&version=RVR1960" target="_blank">Bible Gateway</a>_ 👈
-
-### Introducción
-
-Romanos 8:18-27 aborda la tensión entre las aflicciones presentes y la gloria futura prometida al creyente. El autor destaca que los sufrimientos actuales no admiten comparación con la inmensidad de la gloria que se manifestará en nosotros. Pablo revela que la creación entera fue sujetada a frustración y gime con dolores de parto, anhelando ser liberada de la corrupción cuando los hijos de Dios sean manifestados públicamente. De igual modo, los cristianos, aunque poseemos las primicias del Espíritu, gemimos en nuestro interior viviendo en la tensión del **ya pero todavía no**, aguardando con paciencia la redención final de nuestros cuerpos. En medio de esta debilidad e incertidumbre, el Espíritu Santo acude en nuestra ayuda e intercede por nosotros con gemidos indecibles conforme a la voluntad perfecta de Dios.
-
-### Preguntas de reflexión y aplicación
-
-* Al ponderar tus aflicciones o sufrimientos actuales en comparación con la gloria eterna reservada para ti, ¿de qué manera cambia tu perspectiva sobre la carga y la duración de tus pruebas presentes?   
-* La vida cristiana implica esperar con paciencia la redención completa del cuerpo y la creación. ¿En qué área de tu vida sientes impaciencia o cansancio, y cómo puedes cultivar la perseverancia confiando en lo que aún no ves?
-* Reconociendo que en tus momentos de mayor debilidad o confusión el Espíritu Santo intercede por ti de acuerdo con la voluntad de Dios, ¿cómo consuela y fortalece esta verdad tu vida de oración cuando no sabes cómo orar? 
-
-
-### **Día 3:** Romanos 8:28-39 — La celebración de la seguridad inquebrantable del creyente
-
-{: .important }
-> **Lee Romanos 8:28-39.**
->
-> _Leer en <a href="https://www.biblegateway.com/passage/?search=Romanos%208:28-39&version=RVR1960" target="_blank">Bible Gateway</a>_ 👈
-
-### Introducción
-
-En Romanos 8:28-39, Pablo alcanza la cumbre del capítulo al celebrar la absoluta seguridad del creyente en el amor de Dios. Pablo afirma que Dios dispone soberanamente todas las cosas para el bien de quienes le aman y son llamados según su propósito, conduciéndolos por una cadena ininterrumpida de salvación: desde el preconocimiento y la predestinación para ser conformados a la imagen de Cristo, hasta el llamamiento, la justificación y la glorificación final (expresada como una certeza ya decretada por Dios). Con un lenguaje judicial victorioso, Pablo pregunta: **Si Dios es por nosotros, ¿quién contra nosotros?**. Quien no escatimó a su propio Hijo nos concederá con Él todas las cosas, de modo que ninguna acusación o condena prevalecerá contra sus escogidos. La sección culmina proclamando que absolutamente nada en la creación —ni tribulación, ni peligro, ni poderes espirituales, ni la vida ni la muerte— podrá separarnos del amor de Dios en Cristo Jesús.
-
-### Preguntas de reflexión y aplicación
-
-* La promesa de que *todas las cosas cooperan para bien* tiene como fin principal conformarnos a la imagen de Cristo. ¿De qué forma recordar este propósito divino te ayuda a confiar en Dios cuando atraviesas situaciones dolorosas o difíciles que no comprendes?   
-* Puesto que Dios mismo es quien justifica y Cristo intercede por ti, ¿hay sentimientos de culpa o acusación que necesitas abandonar para descansar en el perdón definitivo que tienes en Jesús?   
-* Al saber que nada en la creación puede separarte del amor de Dios en Cristo Jesús, ¿de qué manera esta certeza inquebrantable transforma tu actitud ante el futuro y ante los temores de la vida diaria?
-
-
 ## Entregas
 
 Para esta entrega, será necesario traer las preguntas respondidas a la clase (puede ser en un cuaderno u hojas, sólo se revisa la tarea realizada y se devuelve).
