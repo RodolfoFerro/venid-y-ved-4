@@ -42,3 +42,5 @@ Branch: `master` / `(root)`**.
 | `_sass/color_schemes/venid.scss` | Esquema de color propio (opcional) |
 
 Más detalles en la sección **Estructura del sitio** de la propia documentación.
+
+-- FIN--
